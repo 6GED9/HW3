@@ -1,0 +1,15 @@
+/Users/wudisluv/Projects/Instr/Instr/bin/Debug/net6.0/Instr
+/Users/wudisluv/Projects/Instr/Instr/bin/Debug/net6.0/Instr.deps.json
+/Users/wudisluv/Projects/Instr/Instr/bin/Debug/net6.0/Instr.runtimeconfig.json
+/Users/wudisluv/Projects/Instr/Instr/bin/Debug/net6.0/Instr.dll
+/Users/wudisluv/Projects/Instr/Instr/bin/Debug/net6.0/Instr.pdb
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.csproj.AssemblyReference.cache
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.AssemblyInfoInputs.cache
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.AssemblyInfo.cs
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.csproj.CoreCompileInputs.cache
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.dll
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/refint/Instr.dll
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.pdb
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/Instr.genruntimeconfig.cache
+/Users/wudisluv/Projects/Instr/Instr/obj/Debug/net6.0/ref/Instr.dll

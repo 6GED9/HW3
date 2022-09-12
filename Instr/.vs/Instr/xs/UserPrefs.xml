@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{180B043B-67C8-44D4-A4B7-F86291BFC11D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Instr PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Instr/Instrument.cs">
+    <Files>
+      <File FileName="Instr/Program.cs" Line="13" Column="10" />
+      <File FileName="Instr/Gitar.cs" Line="15" Column="64" />
+      <File FileName="Instr/Baraban.cs" Line="18" Column="6" />
+      <File FileName="Instr/Tryba.cs" Line="12" Column="10" />
+      <File FileName="Instr/Instrument.cs" Line="6" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Instr" expanded="True">
+            <Node name="Instr" expanded="True">
+              <Node name="Instrument.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

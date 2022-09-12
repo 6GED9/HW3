@@ -1,0 +1,15 @@
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/bin/Debug/net6.0/Pribtable
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/bin/Debug/net6.0/Pribtable.deps.json
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/bin/Debug/net6.0/Pribtable.runtimeconfig.json
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/bin/Debug/net6.0/Pribtable.dll
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/bin/Debug/net6.0/Pribtable.pdb
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.csproj.AssemblyReference.cache
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.AssemblyInfoInputs.cache
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.AssemblyInfo.cs
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.csproj.CoreCompileInputs.cache
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.dll
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/refint/Pribtable.dll
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.pdb
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/Pribtable.genruntimeconfig.cache
+/Users/wudisluv/Документ/programs/Pribtable/Pribtable/obj/Debug/net6.0/ref/Pribtable.dll

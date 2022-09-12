@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{785489CA-DBA6-45E1-B09C-3E720C99C2B1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pribtable/Magazine.cs">
+    <Files>
+      <File FileName="Pribtable/Program.cs" Line="13" Column="40" />
+      <File FileName="Pribtable/Printable.cs" Line="5" Column="6" />
+      <File FileName="Pribtable/Book.cs" Line="25" Column="18" />
+      <File FileName="Pribtable/Magazine.cs" Line="26" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pribtable" expanded="True">
+            <Node name="Pribtable" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Pribtable PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
